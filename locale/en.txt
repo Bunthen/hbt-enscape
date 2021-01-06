@@ -1,0 +1,35 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HBT
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4700000000000006vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.47vw;"><B>HATTHA KAKSEKAR LIMITED</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.6900000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003366;font-size:1.69vw;"><B><I>Head Office</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_F299D27E_B145_5EF5_41B2_3827E5636B60.label = Floor Plan
+panorama_C2DCDC6A_D6EB_55EA_41E1_74BCCCAE1240.label = VIP Teller
+panorama_C2EA5B09_D6EB_D316_41DE_AE95CD3FCA97.label = Private Room Lobby
+panorama_C4F18AAE_D6EB_BD6B_41D5_1FD6088B4A62.label = Guest Lounge
+panorama_C54E3A9C_D6EB_5D2F_41EA_0E2D9ED53095.label = Private Room
+
+## Action
+
+### URL
+LinkBehaviour_DF9D14C5_D6EC_FDBF_41D7_7CBC32619C8D.source = https://www.linkedin.com/company/cmedcc/
+LinkBehaviour_DF9EF4C5_D6EC_FDBF_41D4_11B24C1CAA7F.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
